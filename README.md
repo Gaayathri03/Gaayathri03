@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gaayathri Murugesan  
+# 👋 Hi, I'm Gaayathri 
 
 🎓 I'm a postgraduate student pursuing **M.Sc. Data Science** at Christ University, Bangalore, with a strong foundation in **Computer Science (AI)**.  
 💡 Passionate about **Machine Learning, Deep Learning, Big Data, and Generative AI**, I love transforming complex data into meaningful insights.  
