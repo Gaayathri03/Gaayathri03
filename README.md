@@ -1,15 +1,64 @@
-# 💫 About Me:
-I am Gaayathri <br>M.Sc Data Science student<br>@ Christ university
+# 👋 Hi, I'm Gaayathri Murugesan  
 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gaayathri03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gaayathri03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaayathri03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 I'm a postgraduate student pursuing **M.Sc. Data Science** at Christ University, Bangalore, with a strong foundation in **Computer Science (AI)**.  
+💡 Passionate about **Machine Learning, Deep Learning, Big Data, and Generative AI**, I love transforming complex data into meaningful insights.  
+🌱 Currently exploring **LLMs, computer vision, and data-driven automation**.  
+💬 Always happy to collaborate on projects related to **AI, analytics, cloud, and innovative data solutions**.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gaayathri03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Tools & Technologies  
+
+**📊 Languages:** Python, SQL, Java, R, JavaScript, HTML  
+**🗄️ Databases:** MySQL, PostgreSQL, MongoDB  
+**🧠 ML/DL Frameworks:** scikit-learn, TensorFlow, PyTorch, Keras  
+**📈 Data Visualization & Big Data:** Pandas, NumPy, Matplotlib, Power BI, Spark, Hadoop  
+**📚 Other Tools:** Excel, Flask, UiPath RPA  
+
+---
+
+## 🚀 Projects  
+
+Here are some projects I’ve worked on:  
+
+🌱 **Seed Quality Prediction Using Clustering**  
+- Implemented **K-Means & K-Medoids** in Python to classify 210 seed entries.  
+- Achieved **90%+ clustering accuracy** with robust preprocessing and visualization.  
+
+🍅 **Automated Detection of Tomato Leaf Diseases**  
+- Developed a **multi-label image classification system** using ResNet50.  
+- Augmented a dataset of **10,000+ leaf images** and optimized with advanced hyperparameter tuning.  
+- Improved **F1 Score significantly**, ensuring model robustness.  
+
+⚙️ **Data Pipeline for Robotic Sensor Data (Internship @ Dotworld Technologies)**  
+- Built a **sensor data pipeline** with Python and ROS files.  
+- Parsed **10,000+ rows** into Spark DataFrames and loaded into PostgreSQL.  
+- Researched **15+ database solutions**, presenting insights for technology selection.  
+
+---
+
+## 🏆 Certifications  
+
+- **AWS Academy Cloud Foundations** (2025)  
+- **Applied Generative AI** – Infosys (2024)  
+- **Big Data with Spark & Hadoop** – IBM Coursera (2023)  
+- **UiPath Robotic Process Automation** – ICT Academy (2023)  
+- **Soft Skill Development** – NPTEL (2023)  
+- **Introduction to AI** – IBM (2023)  
+- **Database Management Systems** – NPTEL (2022)  
+
+---
+
+## 📫 Let's Connect  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/gaayathri-murugesan)  
+📧 Email: imgaayathri@gmail.com  
+
+---
+
+![Gaayathri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaayathri03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Gaayathri03&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaayathri03&theme=dark&hide_border=false&layout=compact)  
+
+---
+[![](https://visitcount.itsvg.in/api?id=Gaayathri03&icon=0&color=0)](https://visitcount.itsvg.in)  
