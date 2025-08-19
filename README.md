@@ -9,11 +9,10 @@
 
 ## 🔧 Tools & Technologies  
 
-**📊 Languages:** Python, SQL, Java, R, JavaScript, HTML  
+**📊 Languages:** Python, SQL, Java, HTML  
 **🗄️ Databases:** MySQL, PostgreSQL, MongoDB  
 **🧠 ML/DL Frameworks:** scikit-learn, TensorFlow, PyTorch, Keras  
 **📈 Data Visualization & Big Data:** Pandas, NumPy, Matplotlib, Power BI, Spark, Hadoop  
-**📚 Other Tools:** Excel, Flask, UiPath RPA  
 
 ---
 
