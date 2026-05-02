@@ -9,7 +9,7 @@
 
 ## 🔧 Tools & Technologies  
 
-**📊 Languages:** Python, SQL, Java, HTML  
+**📊 Languages:** Python, SQL
 **🗄️ Databases:** MySQL, PostgreSQL, MongoDB  
 **🧠 ML/DL Frameworks:** scikit-learn, TensorFlow, PyTorch, Keras  
 **📈 Data Visualization & Big Data:** Pandas, NumPy, Matplotlib, Power BI, Spark, Hadoop  
